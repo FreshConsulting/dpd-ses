@@ -1,0 +1,7 @@
+{
+  "name": "dpd-ses",
+  "version": "0.1.0",
+  "dependencies": {
+        "aws-sdk": "latest"
+    }
+}
