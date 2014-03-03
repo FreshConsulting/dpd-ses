@@ -31,3 +31,5 @@ Add a resource in the deployd dashboard selecting SES and name your resource. In
     });
 
 ## TODO's
+
+- 	Add HTML message body support
